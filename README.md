@@ -14,18 +14,18 @@ _This project is a website for a new co-working company that has come to town. T
   * _Offers a space other than their home to avoid distractions, focus, and be productive while working_
   * _Allows them to work in the same environment as other people in the same field of work to spark creativity and improve networking_
   * _Although they will work here to avoid distractions at home, others will be around so they wont feel isolated_
-  * _The space comes with many amenities such as, fast wifi, a designated mailing address, colored printers, and in house IT assistance_
+  * _The space comes with many amenities such as, fast wifi, a designated mailing address, colored printers_
 * _Start-Up Companies_
-  * _The space comes with many amenities such as, fast wifi, a designated mailing address, colored printers, and in house IT assistance_
+  * _The space comes with many amenities such as, fast wifi, a designated mailing address, colored printers_
   * _Allows excellent flexibility and low risk for a changing business because it is less risky than obtaining an office space and diverse enough to accommodate expansion_
   * _Other creative minds will be using the space which is perfect for product testing, creative assistance, and networking_
 * _Travelers_
   * _Provides a professional environment to complete work_
-  * _The space comes with many amenities such as, fast wifi, a designated mailing address, colored printers, and in house IT assistance_
+  * _The space comes with many amenities such as, fast wifi, a designated mailing address, colored printers_
   * _Excellent for networking while on the move_
 * _Students_
   * _Provides a space to practice working in a professional setting and network for the future_
-  * _The space is cheap and comes with many amenities such as, fast wifi, a designated mailing address, colored printers, and in house IT assistance_
+  * _The space is cheap and comes with many amenities such as, fast wifi, a designated mailing address, colored printers_
 
 ## Setup/Installation Requirements
 

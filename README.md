@@ -27,6 +27,9 @@ _This project is a website for a new co-working company that has come to town. T
   * _Provides a space to practice working in a professional setting and network for the future_
   * _The space is cheap and comes with many amenities such as, fast wifi, a designated mailing address, colored printers_
 
+## Sketches
+  _ ![](img/sketch1.jpeg)  _
+
 ## Setup/Installation Requirements
 
 * _This is a great place_
